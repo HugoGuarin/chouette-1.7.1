@@ -1,0 +1,1 @@
+­Bchouette-core/src/main/java/fr/certu/chouette/dao/DaoInjector.java 2javaXy

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="
+   http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+   http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-2.5.xsd
+   http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-2.5.xsd"
+	default-init-method="init">
+
+	<bean id="stopAreaJdbcDao" class="fr.certu.chouette.jdbc.dao.StopAreaJdbcDao"
+		parent="abstractJdbcDao">
+		<property name="sqlSelectAll">
+			<value>SELECT * FROM ${database.schema}.StopArea</value>
+		</property>
+		<property name="sqlPurge1">
+			<value>
+				DELETE FROM ${database.schema}.StopArea WHERE areaType IN
+				('BoardingPosition','Quay') AND (id NOT IN (SELECT distinct
+				stopAreaId FROM ${database.schema}.StopPoint))
+			</value>
+		</property>
+		<property name="sqlPurge2">
+			<value>
+				DELETE FROM ${database.schema}.StopArea s WHERE s.areaType =
+				'CommercialStopPoint' AND NOT (EXISTS (SELECT p.parentId FROM
+				${database.schema}.StopAreaStopArea p WHERE p.parentId = s.id))
+			</value>
+		</property>
+		<property name="sqlPurge3">
+			<value>
+				DELETE FROM ${database.schema}.StopArea s WHERE s.areaType =
+				'StopPlace' AND NOT (EXISTS (SELECT p.parentId FROM
+				${database.schema}.StopAreaStopArea p WHERE p.parentId = s.id))
+			</value>
+		</property>
+		<property name="sqlPurge4">
+			<value>
+				DELETE FROM ${database.schema}.StopArea s WHERE s.areaType =
+				'ITL' AND NOT (EXISTS (SELECT p.parentId FROM
+				${database.schema}.StopAreaStopArea p WHERE p.parentId = s.id))
+			</value>
+		</property>
+		<property name="sqlInsert">
+			<value>
+				INSERT INTO ${database.schema}.StopArea
+				(
+				parentid,
+				objectid,
+				objectversion,
+				creationtime,
+				creatorid,
+				name,
+				COMMENT,
+				areatype,
+				registrationnumber,
+				nearesttopicname,
+				farecode,
+				longitude,
+				latitude,
+				longlattype,
+				x,
+				y,
+				projectiontype,
+				countrycode,
+				streetname
+				)
+				VALUES(?, ?,
+				?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+			</value>
+		</property>
+		<property name="sqlSelectByObjectId">
+			<value>
+				SELECT * FROM ${database.schema}.StopArea WHERE objectid = ?
+			</value>
+		</property>
+		<property name="sqlSelectByObjectIdWithInClause">
+			<value>
+				SELECT id,objectid FROM ${database.schema}.StopArea WHERE
+				objectid IN (_OBJECTIDS_)
+			</value>
+		</property>
+		<property name="sqlUpdate">
+			<value>
+				UPDATE ${database.schema}.StopArea
+				SET
+				parentid = ?,
+				objectid =
+				?,
+				objectversion = ?,
+				creationtime = ?,
+				creatorid = ?,
+				name = ?,
+				COMMENT
+				= ?,
+				areatype = ?,
+				registrationnumber = ?,
+				nearesttopicname = ?,
+				farecode = ?,
+				longitude = ?,
+				latitude = ?,
+				longlattype = ?,
+				x = ?,
+				y = ?,
+				projectiontype = ?,
+				countrycode = ?,
+				streetname = ?
+				WHERE objectid = ?
+			</value>
+		</property>
+		<property name="collectionAttributes">
+			<map>
+				<description>one entry for each attribute</description>
+				<entry key="stopAreaStopArea">
+					<map>
+						<description>one entry for select, insert, delete</description>
+						<entry key="sqlSelectById">
+							<value>
+								SELECT * FROM ${database.schema}.stopareastoparea WHERE
+								childId = ? 
+								</value>
+						</entry>
+						<entry key="sqlInsert">
+							<value>
+								INSERT INTO ${database.schema}.stopareastoparea
+								(
+								parentId,
+								childId
+								)
+								VALUES(?, ?)
+								</value>
+						</entry>
+						<entry key="sqlDelete">
+							<value>
+								DELETE FROM ${database.schema}.stopareastoparea WHERE
+								childId IN (_IDS_)
+								 </value>
+						</entry>
+					</map>
+				</entry>
+				<entry key="routingconstraints">
+					<map>
+						<description>one entry for select, insert, delete</description>
+						<entry key="sqlSelectById">
+							<value>
+								SELECT * FROM ${database.schema}.routingconstraints_lines WHERE
+								stopAreaId = ? 
+								</value>
+						</entry>
+						<entry key="sqlInsert">
+							<value>
+								INSERT INTO ${database.schema}.routingconstraints_lines
+								(
+								lineId,
+								stopareaId
+								)
+								VALUES(?, ?)
+								</value>
+						</entry>
+						<entry key="sqlDelete">
+							<value>
+								DELETE FROM ${database.schema}.routingconstraints_lines WHERE
+								stopAreaId IN (_IDS_)
+								 </value>
+						</entry>
+					</map>
+				</entry>
+			</map>
+		</property>
+	</bean>
+</beans>	

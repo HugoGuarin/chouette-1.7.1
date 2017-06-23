@@ -1,0 +1,1 @@
+¸achouette-neptune/src/main/resources/fr/certu/chouette/struts/network/NetworkAction-validation.xml 2xmlX

@@ -1,0 +1,1 @@
+¸Jchouette-core/src/main/java/fr/certu/chouette/manager/FacilityManager.java 2javaX

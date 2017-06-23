@@ -1,0 +1,1 @@
+È8chouette-hibernate-dao/src/main/mapping/TimeSlot.hbm.xml 2xmlX?

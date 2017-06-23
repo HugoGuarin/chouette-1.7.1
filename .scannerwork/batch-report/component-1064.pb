@@ -1,0 +1,1 @@
+¨Ichouette-core/src/main/java/fr/certu/chouette/core/CoreExceptionCode.java 2javaX

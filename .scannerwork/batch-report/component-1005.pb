@@ -1,0 +1,1 @@
+í2chouette-castor-amivif/src/main/java/amivif/schema :ì

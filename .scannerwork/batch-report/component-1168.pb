@@ -1,0 +1,1 @@
+ê	Qchouette-core/src/main/java/fr/certu/chouette/plugin/report/DetailReportItem.java 2javaX$

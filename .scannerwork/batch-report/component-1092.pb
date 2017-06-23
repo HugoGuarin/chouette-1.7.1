@@ -1,0 +1,1 @@
+ÄPchouette-core/src/main/java/fr/certu/chouette/manager/VehicleJourneyManager.java 2javaX

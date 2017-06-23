@@ -1,0 +1,1 @@
+Â_chouette-neptune/src/main/java/fr/certu/chouette/struts/converter/LongLatTypeEnumConverter.java 2javaX'

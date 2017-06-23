@@ -1,0 +1,1 @@
+ôRchouette-attic/src/main/java/fr/certu/chouette/service/validation/LongLatType.java 2javaX

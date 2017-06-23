@@ -1,0 +1,1 @@
+¼!chouette-attic/src/test/resources :»¾¿ÀÁÂÐÑ

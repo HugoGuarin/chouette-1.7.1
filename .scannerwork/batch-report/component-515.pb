@@ -1,0 +1,1 @@
+ƒTchouette-attic/src/main/java/fr/certu/chouette/service/validation/TransportMode.java 2javaX

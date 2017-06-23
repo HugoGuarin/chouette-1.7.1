@@ -1,0 +1,1 @@
+ÊSchouette-attic/src/main/java/fr/certu/chouette/service/database/ICourseManager.java 2javaX-

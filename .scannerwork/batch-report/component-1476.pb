@@ -1,0 +1,1 @@
+Ä6chouette-hibernate-dao/src/main/mapping/PTLink.hbm.xml 2xmlXF

@@ -1,0 +1,1 @@
+ÿRchouette-attic/src/main/java/fr/certu/chouette/service/export/gtfs/model/Trip.java 2javaXp

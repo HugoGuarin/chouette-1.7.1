@@ -1,0 +1,1 @@
+…)chouette-attic/src/mapping/Course.hbm.xml 2xmlX*

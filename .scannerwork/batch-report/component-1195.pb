@@ -1,0 +1,1 @@
+«	Ochouette-core/src/test/java/fr/certu/chouette/manager/AbstractManagerTests.java 2javaX

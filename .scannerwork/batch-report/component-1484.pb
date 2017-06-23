@@ -1,0 +1,1 @@
+Ì=chouette-hibernate-dao/src/main/resources/chouetteContext.xml 2xmlXd

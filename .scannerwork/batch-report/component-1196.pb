@@ -1,0 +1,1 @@
+¬	Pchouette-core/src/test/java/fr/certu/chouette/manager/BasicLineManagerTests.java 2javaX

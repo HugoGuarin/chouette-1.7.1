@@ -1,0 +1,1 @@
+¾Bchouette-neptune/src/main/resources/fr/certu/chouette/struts/route :¿

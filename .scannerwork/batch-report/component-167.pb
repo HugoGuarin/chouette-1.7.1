@@ -1,0 +1,1 @@
+§_chouette-attic/src/main/java/fr/certu/chouette/service/amivif/base/JourneyPatternConverter.java 2javaX^

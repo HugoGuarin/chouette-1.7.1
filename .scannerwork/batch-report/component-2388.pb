@@ -1,0 +1,1 @@
+Ôbchouette-webapp/src/main/resources/fr/certu/chouette/modele/InterdictionTraficLocal-validation.xml 2xmlX

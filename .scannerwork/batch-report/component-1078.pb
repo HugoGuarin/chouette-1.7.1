@@ -1,0 +1,1 @@
+¶Ichouette-core/src/main/java/fr/certu/chouette/manager/CompanyManager.java 2javaXN

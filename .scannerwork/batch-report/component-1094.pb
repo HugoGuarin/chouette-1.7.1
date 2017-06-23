@@ -1,0 +1,1 @@
+Æ;chouette-core/src/main/java/fr/certu/chouette/model/neptune :,ÅÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙ‚		

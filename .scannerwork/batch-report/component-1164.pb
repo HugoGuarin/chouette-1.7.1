@@ -1,0 +1,1 @@
+Œ	Qchouette-core/src/main/java/fr/certu/chouette/plugin/exchange/ParameterValue.java 2javaX

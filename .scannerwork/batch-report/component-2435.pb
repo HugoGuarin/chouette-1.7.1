@@ -1,0 +1,1 @@
+ƒMchouette-webapp/src/main/resources/fr/certu/chouette/struts/routingConstraint :‚

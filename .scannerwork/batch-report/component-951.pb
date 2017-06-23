@@ -1,0 +1,1 @@
+·Ichouette-attic/src/test/resources/Alsace/OCE__781_Strasbourg_Haguenau.xml 2xmlXÄ!

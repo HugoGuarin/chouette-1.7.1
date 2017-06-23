@@ -1,0 +1,1 @@
+;Nchouette-attic/src/main/java/fr/certu/chouette/critere/ScalarOperatorEnum.java 2javaX

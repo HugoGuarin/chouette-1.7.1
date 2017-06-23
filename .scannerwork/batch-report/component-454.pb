@@ -1,0 +1,1 @@
+ÆMchouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/util :2ÅÇÈÊËÌÍÏÎÐÑÒÓÔÖÕ×ØÙÚÛÜÝÞß

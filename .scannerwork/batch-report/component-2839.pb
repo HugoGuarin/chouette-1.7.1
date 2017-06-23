@@ -1,0 +1,1 @@
+—6chouette-webapp/src/main/webapp/WEB-INF/decorators.xml 2xmlX&

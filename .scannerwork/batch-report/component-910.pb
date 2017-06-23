@@ -1,0 +1,1 @@
+Ž/chouette-attic/src/mapping/Transporteur.hbm.xml 2xmlX)

@@ -1,0 +1,1 @@
+Ÿ\chouette-attic/src/main/java/fr/certu/chouette/service/fichier/formatinterne/impl/producteur :œ ¡¢£¤¥¦§ª

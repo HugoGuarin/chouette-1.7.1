@@ -1,0 +1,1 @@
+Û)chouette-hibernate-dao/src/test/resources :ÙÚ

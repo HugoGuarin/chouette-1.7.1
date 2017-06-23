@@ -1,0 +1,1 @@
+²	Qchouette-core/src/test/java/fr/certu/chouette/manager/DaoCompanyManagerTests.java 2javaX

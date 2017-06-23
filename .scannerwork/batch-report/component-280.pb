@@ -1,0 +1,1 @@
+˜fchouette-attic/src/main/java/fr/certu/chouette/service/fichier/formatinterne/impl/GestionSequence.java 2javaX?

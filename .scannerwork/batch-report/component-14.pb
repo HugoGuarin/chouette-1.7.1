@@ -1,0 +1,1 @@
+;chouette-attic/src/main/castor/amivif/trident_PT_schema.xsd 2xmlXÃ

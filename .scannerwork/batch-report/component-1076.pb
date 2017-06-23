@@ -1,0 +1,1 @@
+´Mchouette-core/src/main/java/fr/certu/chouette/manager/AccessPointManager.java 2javaX

@@ -1,0 +1,1 @@
+‚<chouette-webapp/src/main/webapp/js/scriptaculous/dragdrop.js 2jsXÎ

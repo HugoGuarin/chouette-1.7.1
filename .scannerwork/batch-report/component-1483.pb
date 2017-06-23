@@ -1,0 +1,1 @@
+Ë>chouette-hibernate-dao/src/main/mapping/VehicleJourney.hbm.xml 2xmlXº

@@ -1,0 +1,1 @@
+«dchouette-attic/src/main/java/fr/certu/chouette/service/fichier/formatinterne/IProducteurFichier.java 2javaX

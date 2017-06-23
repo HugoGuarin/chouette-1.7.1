@@ -1,0 +1,1 @@
+ÅMchouette-neptune/src/main/resources/fr/certu/chouette/struts/stoppointOnRoute :Ä

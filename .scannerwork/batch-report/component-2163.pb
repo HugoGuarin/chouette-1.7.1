@@ -1,0 +1,1 @@
+ó[chouette-validation/src/main/java/fr/certu/chouette/validation/report/DetailReportItem.java 2javaX$

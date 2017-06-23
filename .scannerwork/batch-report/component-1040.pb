@@ -1,0 +1,1 @@
+.chouette-command/src/main/resources/assemblies :

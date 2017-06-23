@@ -1,0 +1,1 @@
+×_chouette-webapp/src/main/resources/fr/certu/chouette/modele/PositionGeographique-validation.xml 2xmlX\

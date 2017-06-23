@@ -1,0 +1,1 @@
+‰Jchouette-attic/src/main/java/fr/certu/chouette/modele/ArretItineraire.java 2javaX™

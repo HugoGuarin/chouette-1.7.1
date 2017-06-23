@@ -1,0 +1,1 @@
+½Achouette-attic/src/test/resources/Alsace/OCE__805_Thann_Kruth.xml 2xmlX–

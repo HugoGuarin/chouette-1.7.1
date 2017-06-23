@@ -1,0 +1,1 @@
+çAchouette-attic/src/main/java/fr/certu/chouette/modele/Course.java 2javaX¢

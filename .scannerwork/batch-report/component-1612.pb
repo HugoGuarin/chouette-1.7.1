@@ -1,0 +1,1 @@
+ÌUchouette-neptune/src/main/java/fr/certu/chouette/struts/enumeration/ObjetEnumere.java 2javaX3

@@ -1,0 +1,1 @@
+ìmchouette-core/src/main/java/fr/certu/chouette/model/neptune/type/facility/RefreshmentFacilityEnumeration.java 2javaX–

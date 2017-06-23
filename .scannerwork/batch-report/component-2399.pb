@@ -1,0 +1,1 @@
+ßnchouette-webapp/src/main/resources/fr/certu/chouette/struts/connectionLink/ConnectionLinkAction-validation.xml 2xmlX

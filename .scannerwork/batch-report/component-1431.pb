@@ -1,0 +1,1 @@
+—chouette-hibernate-dao/pom.xml 2xmlX¤

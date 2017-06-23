@@ -1,0 +1,1 @@
+†_chouette-webapp/src/main/java/fr/certu/chouette/struts/converter/LocationTypeTypeConverter.java 2javaX%

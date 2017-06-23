@@ -1,0 +1,1 @@
+óUchouette-attic/src/main/java/fr/certu/chouette/service/validation/JourneyPattern.java 2javaXè

@@ -1,0 +1,1 @@
+×Achouette-attic/src/test/resources/validation/fileBadChouette2.xml 2xmlX±

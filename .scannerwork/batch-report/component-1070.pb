@@ -1,0 +1,1 @@
+®Cchouette-core/src/main/java/fr/certu/chouette/dao/IDaoTemplate.java 2javaXm

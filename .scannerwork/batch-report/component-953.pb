@@ -1,0 +1,1 @@
+¹Gchouette-attic/src/test/resources/Alsace/OCE__793_Selestat_Molsheim.xml 2xmlX‡	

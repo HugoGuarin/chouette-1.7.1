@@ -1,0 +1,1 @@
+@chouette-attic/src/main/castor/trident/trident_Global_schema.xsd 2xmlXæ

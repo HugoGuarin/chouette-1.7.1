@@ -1,0 +1,1 @@
+¿	Schouette-core/src/test/java/fr/certu/chouette/manager/NoDaoCompanyManagerTests.java 2javaX

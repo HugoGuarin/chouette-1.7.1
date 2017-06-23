@@ -1,0 +1,1 @@
+õUchouette-attic/src/main/java/fr/certu/chouette/service/validation/ProjectedPoint.java 2javaX[

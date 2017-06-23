@@ -1,0 +1,1 @@
+©	Uchouette-core/src/test/java/fr/certu/chouette/manager/AbstractExportManagerTests.java 2javaX^

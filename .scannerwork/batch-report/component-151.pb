@@ -1,0 +1,1 @@
+—Fchouette-attic/src/main/java/fr/certu/chouette/modele/SchemaObjet.java 2javaX

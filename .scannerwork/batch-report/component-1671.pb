@@ -1,0 +1,1 @@
+‡6chouette-neptune/src/main/resources/assemblies/cbc.xml 2xmlX@

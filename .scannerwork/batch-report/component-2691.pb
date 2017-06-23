@@ -1,0 +1,1 @@
+ƒ;chouette-webapp/src/main/webapp/js/scriptaculous/effects.js 2jsXã

@@ -1,0 +1,1 @@
+”bchouette-attic/src/main/java/fr/certu/chouette/service/validation/util/ProjectedPointProducer.java 2javaXI

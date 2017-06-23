@@ -1,0 +1,1 @@
+∞cchouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/commun/TypeInvalidite.java 2javaXç

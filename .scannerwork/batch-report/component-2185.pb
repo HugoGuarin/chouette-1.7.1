@@ -1,0 +1,1 @@
+‰&chouette-validation/src/main/resources :ˆŠ

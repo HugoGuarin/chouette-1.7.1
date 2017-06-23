@@ -1,0 +1,1 @@
+¦kchouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/FilterToHibernateClauseTranslator.java 2javaX

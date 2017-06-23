@@ -1,0 +1,1 @@
+ÃKchouette-core/src/main/java/fr/certu/chouette/manager/TimetableManager.java 2javaX

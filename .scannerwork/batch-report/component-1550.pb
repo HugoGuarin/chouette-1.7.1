@@ -1,0 +1,1 @@
+Ž:chouette-jdbc-dao/src/test/resources/goodAFNORLineFile.xml 2xmlX‚

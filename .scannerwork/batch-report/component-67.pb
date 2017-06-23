@@ -1,0 +1,1 @@
+Cfchouette-attic/src/main/java/fr/certu/chouette/dao/hibernate/customtype/ChouettteAreaTypeUserType.java 2javaX„

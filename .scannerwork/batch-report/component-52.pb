@@ -1,0 +1,1 @@
+4Ichouette-attic/src/main/java/fr/certu/chouette/critere/IBinaryClause.java 2javaX

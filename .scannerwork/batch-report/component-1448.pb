@@ -1,0 +1,1 @@
+¨^chouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/HibernateDaoTemplate.java 2javaX­

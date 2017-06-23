@@ -1,0 +1,1 @@
+½kchouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/RespPTLineStructTimetableType.java 2javaX¨

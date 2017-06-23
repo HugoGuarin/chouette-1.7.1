@@ -1,0 +1,1 @@
+®hchouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/commun/ValidationException.java 2javaX.

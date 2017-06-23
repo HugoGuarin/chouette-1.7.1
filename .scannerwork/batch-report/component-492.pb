@@ -1,0 +1,1 @@
+ìachouette-attic/src/main/java/fr/certu/chouette/service/validation/commun/ValidationException.java 2javaXU

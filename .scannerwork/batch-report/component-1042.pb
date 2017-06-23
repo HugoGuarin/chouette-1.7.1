@@ -1,0 +1,1 @@
+’>chouette-command/src/main/resources/filtered/hibernate.cfg.xml 2xmlX

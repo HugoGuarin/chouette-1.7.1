@@ -1,0 +1,1 @@
+ûSchouette-attic/src/main/java/fr/certu/chouette/service/validation/Registration.java 2javaXK

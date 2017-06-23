@@ -1,0 +1,1 @@
+¶	?chouette-core/src/test/java/fr/certu/chouette/manager/exception :µ	·	

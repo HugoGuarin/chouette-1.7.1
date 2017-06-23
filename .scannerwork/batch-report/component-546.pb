@@ -1,0 +1,1 @@
+¢Rchouette-attic/src/main/java/fr/certu/chouette/service/xml/ILecteurEchangeXML.java 2javaX	

@@ -1,0 +1,1 @@
+á\chouette-core/src/main/java/fr/certu/chouette/model/neptune/type/ConnectionLinkTypeEnum.java 2javaX\

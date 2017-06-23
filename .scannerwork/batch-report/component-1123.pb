@@ -1,0 +1,1 @@
+ãochouette-core/src/main/java/fr/certu/chouette/model/neptune/type/facility/AccommodationFacilityEnumeration.java 2javaX…

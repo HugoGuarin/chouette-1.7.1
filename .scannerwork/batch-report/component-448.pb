@@ -1,0 +1,1 @@
+Àcchouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/StopPointInConnection.java 2javaX

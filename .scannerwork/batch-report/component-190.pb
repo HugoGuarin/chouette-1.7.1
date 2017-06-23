@@ -1,0 +1,1 @@
+¾Nchouette-attic/src/main/java/fr/certu/chouette/service/amivif/StopAdapter.java 2javaX¨

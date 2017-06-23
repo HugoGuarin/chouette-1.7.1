@@ -1,0 +1,1 @@
+è6chouette-command/src/main/resources/assemblies/cbc.xml 2xmlX2

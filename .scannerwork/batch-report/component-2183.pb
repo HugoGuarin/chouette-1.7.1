@@ -1,0 +1,1 @@
+‡achouette-validation/src/main/java/fr/certu/chouette/validation/test/ValidationVehicleJourney.java 2javaX«

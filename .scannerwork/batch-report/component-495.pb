@@ -1,0 +1,1 @@
+ïYchouette-attic/src/main/java/fr/certu/chouette/service/validation/ConnectionLinkType.java 2javaX

@@ -1,0 +1,1 @@
+2Rchouette-attic/src/main/java/fr/certu/chouette/critere/AbstractOperatorClause.java 2javaX

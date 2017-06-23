@@ -1,0 +1,1 @@
+êbchouette-attic/src/main/java/fr/certu/chouette/service/fichier/formatinterne/IGestionSequence.java 2javaX

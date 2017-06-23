@@ -1,0 +1,1 @@
+­	Uchouette-core/src/test/java/fr/certu/chouette/manager/BasicPTNetworkManagerTests.java 2javaX

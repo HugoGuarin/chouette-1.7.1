@@ -1,0 +1,1 @@
+‹/chouette-attic/src/mapping/LienTMCourse.hbm.xml 2xmlX

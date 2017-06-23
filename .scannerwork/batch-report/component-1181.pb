@@ -1,0 +1,1 @@
+	^chouette-core/src/main/java/fr/certu/chouette/plugin/validation/ValidationClassReportItem.java 2javaX>

@@ -1,0 +1,1 @@
+³\chouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/JourneyPattern.java 2javaXº

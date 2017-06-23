@@ -1,0 +1,1 @@
+¶Schouette-attic/src/main/java/fr/certu/chouette/service/geographie/ICoordonnees.java 2javaX

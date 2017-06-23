@@ -1,0 +1,1 @@
+™+chouette-command/src/test/badAFNORFile0.xml 2xmlX‚

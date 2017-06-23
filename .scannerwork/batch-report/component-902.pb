@@ -1,0 +1,1 @@
+†:chouette-attic/src/mapping/InterdictionTraficLocal.hbm.xml 2xmlX$

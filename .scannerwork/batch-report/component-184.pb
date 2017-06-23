@@ -1,0 +1,1 @@
+¸Qchouette-attic/src/main/java/fr/certu/chouette/service/amivif/IAmivifAdapter.java 2javaX

@@ -1,0 +1,1 @@
+…	Rchouette-core/src/main/java/fr/certu/chouette/plugin/exchange/IExchangePlugin.java 2javaX

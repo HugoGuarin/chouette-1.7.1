@@ -1,0 +1,1 @@
+›_chouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/BitwiseAndSQLFunction.java 2javaX$

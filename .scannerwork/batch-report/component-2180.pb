@@ -1,0 +1,1 @@
+„[chouette-validation/src/main/java/fr/certu/chouette/validation/test/ValidationStopArea.java 2javaX«

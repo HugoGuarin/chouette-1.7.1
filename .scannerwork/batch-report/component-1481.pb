@@ -1,0 +1,1 @@
+É9chouette-hibernate-dao/src/main/mapping/StopPoint.hbm.xml 2xmlX7

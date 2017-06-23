@@ -1,0 +1,1 @@
+žichouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/exception/HibernateDaoException.java 2javaX-

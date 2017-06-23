@@ -1,0 +1,1 @@
+¼`chouette-neptune/src/main/java/fr/certu/chouette/struts/converter/ChouetteAreaEnumConverter.java 2javaX'

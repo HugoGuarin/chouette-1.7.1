@@ -1,0 +1,1 @@
+Ô^chouette-hibernate-dao/src/test/java/fr/certu/chouette/dao/hibernate/LineDaoTemplateTests.java 2javaXI

@@ -1,0 +1,1 @@
+Ú4chouette-hibernate-dao/src/test/resources/testng.xml 2xmlX

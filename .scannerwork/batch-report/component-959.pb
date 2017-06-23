@@ -1,0 +1,1 @@
+¿6chouette-attic/src/test/resources/AMIV_S_003003209.xml 2xmlX†!

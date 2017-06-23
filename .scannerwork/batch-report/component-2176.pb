@@ -1,0 +1,1 @@
+€achouette-validation/src/main/java/fr/certu/chouette/validation/test/ValidationJourneyPattern.java 2javaX~

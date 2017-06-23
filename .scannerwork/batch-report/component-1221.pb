@@ -1,0 +1,1 @@
+Å	 chouette-core/src/test/resources :Ã	

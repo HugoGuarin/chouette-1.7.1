@@ -1,0 +1,1 @@
+¾Zchouette-attic/src/main/java/fr/certu/chouette/service/identification/ObjectIdLecteur.java 2javaX/

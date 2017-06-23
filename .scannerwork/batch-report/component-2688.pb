@@ -1,0 +1,1 @@
+€0chouette-webapp/src/main/webapp/js/scriptaculous :ÿ‚ƒ„…†ˆ

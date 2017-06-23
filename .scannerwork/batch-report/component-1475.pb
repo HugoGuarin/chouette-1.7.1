@@ -1,0 +1,1 @@
+Ã>chouette-hibernate-dao/src/main/mapping/JourneyPattern.hbm.xml 2xmlXU

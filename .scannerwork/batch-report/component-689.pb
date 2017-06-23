@@ -1,0 +1,1 @@
+±1chouette-attic/src/main/webapp/js/jscalendar/lang :°´

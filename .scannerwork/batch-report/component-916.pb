@@ -1,0 +1,1 @@
+”7chouette-attic/src/test/inputData/goodAFNORLineFile.xml 2xmlX‚

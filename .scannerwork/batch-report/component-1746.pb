@@ -1,0 +1,1 @@
+Ò\chouette-neptune/src/main/resources/fr/certu/chouette/struts/ValidationAction-validation.xml 2xmlX

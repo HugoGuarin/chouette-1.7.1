@@ -1,0 +1,1 @@
+Åfchouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/util/AccessPointProducer.java 2javaXN

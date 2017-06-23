@@ -1,0 +1,1 @@
+·	Zchouette-core/src/test/java/fr/certu/chouette/manager/exception/DummyRuntimeException.java 2javaXI

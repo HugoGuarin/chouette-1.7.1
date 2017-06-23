@@ -1,0 +1,1 @@
+à3chouette-castor-altibus/src/main/castor/binding.xml 2xmlX

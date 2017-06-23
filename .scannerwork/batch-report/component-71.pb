@@ -1,0 +1,1 @@
+G`chouette-attic/src/main/java/fr/certu/chouette/dao/hibernate/customtype/LongLatTypeUserType.java 2javaX„

@@ -1,0 +1,1 @@
+—/chouette-attic/src/test/java/unit/BeanTest.java 2javaX$

@@ -1,0 +1,1 @@
+Õochouette-neptune/src/main/resources/fr/certu/chouette/struts/vehicleJourney/VehicleJourneyAction-validation.xml 2xmlX

@@ -1,0 +1,1 @@
+ç\chouette-attic/src/main/java/fr/certu/chouette/service/validation/commun/LoggingManager.java 2javaXw

@@ -1,0 +1,1 @@
+²Qchouette-core/src/main/java/fr/certu/chouette/manager/AbstractNeptuneManager.java 2javaXÂ

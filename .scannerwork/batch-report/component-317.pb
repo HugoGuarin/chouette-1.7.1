@@ -1,0 +1,1 @@
+½echouette-attic/src/main/java/fr/certu/chouette/service/identification/impl/IdentificationManager.java 2javaX2

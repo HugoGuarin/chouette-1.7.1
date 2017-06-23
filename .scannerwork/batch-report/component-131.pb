@@ -1,0 +1,1 @@
+ƒKchouette-attic/src/main/java/fr/certu/chouette/echange/ILectureEchange.java 2javaX2

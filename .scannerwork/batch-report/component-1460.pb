@@ -1,0 +1,1 @@
+´lchouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/usertype/ReferencingMethodUserType.java 2javaX†

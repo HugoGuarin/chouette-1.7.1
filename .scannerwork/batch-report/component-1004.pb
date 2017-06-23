@@ -1,0 +1,1 @@
+ìDchouette-castor-amivif/src/main/java/amivif/schema/SchemaObject.java 2javaX

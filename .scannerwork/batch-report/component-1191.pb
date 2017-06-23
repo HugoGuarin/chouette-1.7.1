@@ -1,0 +1,1 @@
+§	5chouette-core/src/test/java/fr/certu/chouette/manager :4¦	¨	©	ª	«	¬	­	®	¯	°	±	²	³	´	¹	¸	º	»	¼	½	¿	¾	À	Á	Â	Ç	

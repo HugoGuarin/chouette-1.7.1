@@ -1,0 +1,1 @@
+¹	Tchouette-core/src/test/java/fr/certu/chouette/manager/ExportCompanyManagerTests.java 2javaX

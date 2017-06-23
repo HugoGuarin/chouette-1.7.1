@@ -1,0 +1,1 @@
+·^chouette-attic/src/main/java/fr/certu/chouette/service/amivif/base/VehicleAtStopConverter.java 2javaXM

@@ -1,0 +1,1 @@
+*chouette-attic/src/main/castor/tmp0000.xsd 2xmlX´

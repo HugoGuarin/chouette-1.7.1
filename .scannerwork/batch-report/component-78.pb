@@ -1,0 +1,1 @@
+NGchouette-attic/src/main/java/fr/certu/chouette/dao/hibernate/Mixin.java 2javaX(

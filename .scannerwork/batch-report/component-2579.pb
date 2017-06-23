@@ -1,0 +1,1 @@
+“Achouette-webapp/src/main/webapp/js/jscalendar/lang/calendar-fr.js 2jsX~

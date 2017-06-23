@@ -1,0 +1,1 @@
+©-chouette-validation/src/test/data/2.25.1b.xml 2xmlXé

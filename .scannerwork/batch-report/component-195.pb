@@ -1,0 +1,1 @@
+ÃRchouette-attic/src/main/java/fr/certu/chouette/service/amivif/util/XMLAdapter.java 2javaX

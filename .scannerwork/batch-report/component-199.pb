@@ -1,0 +1,1 @@
+ÇSchouette-attic/src/main/java/fr/certu/chouette/service/commun/ServiceException.java 2javaXj

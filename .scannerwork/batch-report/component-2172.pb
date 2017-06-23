@@ -1,0 +1,1 @@
+ü[chouette-validation/src/main/java/fr/certu/chouette/validation/test/AbstractValidation.java 2javaX 

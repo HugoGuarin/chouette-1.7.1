@@ -1,0 +1,1 @@
+Q]chouette-attic/src/main/java/fr/certu/chouette/dao/hibernate/ToHibernateClauseTranslator.java 2javaXZ

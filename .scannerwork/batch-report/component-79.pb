@@ -1,0 +1,1 @@
+Occhouette-attic/src/main/java/fr/certu/chouette/dao/hibernate/HibernateQueryLanguageAwareClause.java 2javaX

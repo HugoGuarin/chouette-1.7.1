@@ -1,0 +1,1 @@
+*chouette-attic/src/main/castor/binding.xml 2xmlX

@@ -1,0 +1,1 @@
+ôYchouette-core/src/main/java/fr/certu/chouette/model/neptune/type/LinkOrientationEnum.java 2javaX,

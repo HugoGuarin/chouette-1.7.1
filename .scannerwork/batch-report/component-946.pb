@@ -1,0 +1,1 @@
+²Mchouette-attic/src/test/resources/Alsace/OCE__2620_Strasbourg_Lauterbourg.xml 2xmlX•

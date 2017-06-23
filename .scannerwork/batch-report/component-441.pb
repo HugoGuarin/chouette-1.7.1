@@ -1,0 +1,1 @@
+¹\chouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/ProjectedPoint.java 2javaX#

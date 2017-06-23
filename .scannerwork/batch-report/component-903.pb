@@ -1,0 +1,1 @@
+‡*chouette-attic/src/mapping/Horaire.hbm.xml 2xmlX%

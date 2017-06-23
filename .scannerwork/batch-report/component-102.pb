@@ -1,0 +1,1 @@
+frchouette-attic/src/main/java/fr/certu/chouette/echange/comparator/amivif/AmivifExchangeableLineObjectIdMapper.java 2javaX,

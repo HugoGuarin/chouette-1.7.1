@@ -1,0 +1,1 @@
+¹Tchouette-attic/src/main/java/fr/certu/chouette/service/amivif/ILecteurAmivifXML.java 2javaX

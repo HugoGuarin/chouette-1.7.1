@@ -1,0 +1,1 @@
+SIchouette-attic/src/main/java/fr/certu/chouette/dao/hibernate/Triplet.java 2javaX

@@ -1,0 +1,1 @@
+Ç8chouette-hibernate-dao/src/main/mapping/StopArea.hbm.xml 2xmlXµ

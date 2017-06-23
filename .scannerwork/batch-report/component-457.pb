@@ -1,0 +1,1 @@
+É[chouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/TridentObject.java 2javaX×

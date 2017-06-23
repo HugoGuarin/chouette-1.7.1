@@ -1,0 +1,1 @@
+ê3chouette-attic/src/test/inputData/badAFNORFile0.xml 2xmlXÇ

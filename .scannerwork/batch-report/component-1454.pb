@@ -1,0 +1,1 @@
+®jchouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/usertype/LinkOrientationUserType.java 2javaX†

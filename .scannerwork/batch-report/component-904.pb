@@ -1,0 +1,1 @@
+ˆ-chouette-attic/src/mapping/Itineraire.hbm.xml 2xmlX*

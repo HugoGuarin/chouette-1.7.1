@@ -1,0 +1,1 @@
+çxchouette-export-geoportail/src/main/java/fr/certu/chouette/exchange/geoportail/exporter/report/GeoportailReportItem.java 2javaX2

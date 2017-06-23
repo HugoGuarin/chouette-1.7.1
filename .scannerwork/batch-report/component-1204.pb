@@ -1,0 +1,1 @@
+´	Schouette-core/src/test/java/fr/certu/chouette/manager/DaoPTNetworkManagerTests.java 2javaX

@@ -1,0 +1,1 @@
+Á`chouette-neptune/src/main/java/fr/certu/chouette/struts/converter/LocationTypeEnumConverter.java 2javaX'

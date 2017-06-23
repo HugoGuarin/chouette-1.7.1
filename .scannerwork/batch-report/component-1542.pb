@@ -1,0 +1,1 @@
+†=chouette-jdbc-dao/src/main/resources/StopPointJdbcContext.xml 2xmlX?

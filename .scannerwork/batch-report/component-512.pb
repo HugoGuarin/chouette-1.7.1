@@ -1,0 +1,1 @@
+€Pchouette-attic/src/main/java/fr/certu/chouette/service/validation/StopPoint.java 2javaX¡

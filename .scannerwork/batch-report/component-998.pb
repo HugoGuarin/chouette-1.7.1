@@ -1,0 +1,1 @@
+æGchouette-castor-amivif/src/main/castor/amivif/trident_Global_schema.xsd 2xmlXæ

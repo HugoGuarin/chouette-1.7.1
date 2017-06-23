@@ -1,0 +1,2 @@
+l
+squidS1206PThis class overrides "equals()" and should therefore also override "hashCode()". 2** 

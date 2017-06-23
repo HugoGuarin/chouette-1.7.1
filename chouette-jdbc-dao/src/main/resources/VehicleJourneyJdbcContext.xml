@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="
+   http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+   http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-2.5.xsd
+   http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-2.5.xsd"
+	default-init-method="init">
+
+	<bean id="vehicleJourneyJdbcDao" class="fr.certu.chouette.jdbc.dao.VehicleJourneyJdbcDao" parent="abstractJdbcDao">
+		<property name="sqlSelectAll">
+			<value>SELECT * FROM ${database.schema}.VehicleJourney</value>
+		</property>
+		<property name="sqlPurge">
+			<value>
+                 DELETE FROM ${database.schema}.vehiclejourney WHERE id NOT IN (SELECT distinct vehicleJourneyId FROM ${database.schema}.timetablevehiclejourney) 
+			</value>
+		</property>
+		<property name="sqlInsert">
+			<value>
+				INSERT INTO ${database.schema}.VehicleJourney
+				(
+				objectid,
+				objectversion,
+				creationtime,
+				creatorid,
+				COMMENT,
+				statusvalue,
+				transportmode,
+				publishedjourneyname,
+				publishedjourneyidentifier,
+				facility,
+				vehicletypeidentifier,
+				NUMBER,
+				routeid,
+				journeypatternid,
+				timeslotid,
+				companyid
+				)
+				VALUES(?, ?, ?, ?, ?, ?,?, ?, ?, ?, ?,
+				?,?,?,?,?)
+			</value>
+		</property>
+		<property name="sqlUpdate">
+			<value>
+				UPDATE ${database.schema}.VehicleJourney
+				SET
+				objectid = ?,
+				objectversion = ?,
+				creationtime = ?,
+				creatorid = ?,
+				COMMENT = ?,
+				statusvalue = ?,
+				transportmode = ?,
+				publishedjourneyname = ?,
+				publishedjourneyidentifier = ?,
+				facility = ?,
+				vehicletypeidentifier = ?,
+				NUMBER = ?,
+				routeid = ?,
+				journeypatternid = ?,
+				timeslotid = ?,
+				companyid = ?
+				WHERE objectid = ?
+			</value>
+		</property>
+		<property name="sqlSelectByObjectId">
+			<value>
+				SELECT * FROM ${database.schema}.VehicleJourney WHERE objectid
+				= ?
+			</value>
+		</property>
+		<property name="sqlSelectByObjectIdWithInClause">
+			<value>
+				SELECT id,objectid FROM ${database.schema}.VehicleJourney
+				WHERE
+				objectid IN (_OBJECTIDS_)
+			</value>
+		</property>
+		<property name="sqlDelete">
+			<value>
+				DELETE FROM ${database.schema}.VehicleJourney WHERE objectid
+				IN (_OBJECTIDS_)
+			</value>
+		</property>
+
+		<property name="collectionAttributes">
+			<map>
+				<description>one entry for each attribute</description>
+				<entry key="vjAtStop">
+					<map>
+						<description>one entry for select, insert, delete</description>
+						<entry key="sqlSelectById">
+							<value>
+								SELECT * FROM ${database.schema}.VehicleJourneyAtStop
+								WHERE
+								vehiclejourneyid = ? 
+								</value>
+						</entry>
+						<entry key="sqlInsert">
+							<value>
+								INSERT INTO ${database.schema}.VehicleJourneyAtStop
+								(
+								vehiclejourneyid,
+								stoppointid,
+								connectingserviceid,
+								boardingalightingpossibility,
+								arrivaltime,
+								departuretime,
+								waitingtime,
+								elapseduration,
+								headwayfrequency,
+								isdeparture,
+								isarrival,
+								position
+								)
+								VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?,
+								?, ?, ?)
+								</value>
+						</entry>
+						<entry key="sqlDelete">
+							<value>
+								DELETE FROM ${database.schema}.VehicleJourneyAtStop WHERE
+								vehiclejourneyid IN (_IDS_) 
+								</value>
+						</entry>
+					</map>
+				</entry>
+				
+				<entry key="timetableVj">
+					<map>
+						<description>one entry for select, insert, delete</description>
+						<entry key="sqlSelectById">
+							<value>
+								SELECT * FROM ${database.schema}.TimetableVehicleJourney WHERE
+								vehiclejourneyid = ? 
+								</value>
+						</entry>
+						<entry key="sqlInsert">
+							<value>
+								INSERT INTO ${database.schema}.TimetableVehicleJourney
+								(
+								timetableid,
+								vehiclejourneyid
+								)
+								VALUES(?, ?)
+								</value>
+						</entry>
+						<entry key="sqlDelete">
+							<value>
+								DELETE FROM ${database.schema}.TimetableVehicleJourney WHERE
+								vehiclejourneyid IN (_IDS_)
+								 </value>
+						</entry>
+					</map>
+				</entry>
+			</map>
+		</property>
+	</bean>
+</beans>	

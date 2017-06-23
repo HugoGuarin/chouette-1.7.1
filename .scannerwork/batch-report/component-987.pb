@@ -1,0 +1,1 @@
+Û<chouette-attic/src/test/resources/validation/fileBadXML1.xml 2xmlX

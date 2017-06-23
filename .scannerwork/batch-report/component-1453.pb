@@ -1,0 +1,1 @@
+­bchouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/usertype/DayTypeUserType.java 2javaX„

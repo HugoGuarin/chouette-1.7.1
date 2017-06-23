@@ -1,0 +1,1 @@
+¬Kchouette-neptune/src/main/resources/fr/certu/chouette/struts/journeyPattern :«

@@ -1,0 +1,1 @@
+ÿVchouette-webapp/src/main/java/fr/certu/chouette/struts/converter/BooleanConverter.java 2javaX.

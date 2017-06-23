@@ -1,0 +1,1 @@
+eichouette-attic/src/main/java/fr/certu/chouette/echange/comparator/amivif/AmivifGroupOfLineComparator.java 2javaXM

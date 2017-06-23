@@ -1,0 +1,1 @@
+pZchouette-attic/src/main/java/fr/certu/chouette/echange/comparator/ChouetteObjectState.java 2javaXä

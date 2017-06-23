@@ -1,0 +1,1 @@
+žzchouette-webapp/src/main/resources/fr/certu/chouette/struts/vehicleJourneyAtStop/VehicleJourneyAtStopAction-validation.xml 2xmlX

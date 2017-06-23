@@ -1,0 +1,1 @@
+¤	 chouette-core/src/main/resources :£	

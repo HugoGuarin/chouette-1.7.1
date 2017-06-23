@@ -1,0 +1,1 @@
+š\chouette-attic/src/main/java/fr/certu/chouette/service/validation/util/StopAreaProducer.java 2javaX…

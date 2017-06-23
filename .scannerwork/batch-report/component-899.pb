@@ -1,0 +1,1 @@
+ƒ1chouette-attic/src/mapping/Correspondance.hbm.xml 2xmlX2

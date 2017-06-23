@@ -1,0 +1,1 @@
+°(chouette-attic/src/test/resources/Alsace :¯±²³´µ¶·¸¹º½

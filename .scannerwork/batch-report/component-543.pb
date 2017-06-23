@@ -1,0 +1,1 @@
+Ÿhchouette-attic/src/main/java/fr/certu/chouette/service/validation/util/VehicleJourneyAtStopProducer.java 2javaXÜ

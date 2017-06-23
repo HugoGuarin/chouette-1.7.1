@@ -1,0 +1,1 @@
+À8chouette-hibernate-dao/src/main/mapping/Facility.hbm.xml 2xmlX™

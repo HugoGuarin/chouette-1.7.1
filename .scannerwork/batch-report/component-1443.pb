@@ -1,0 +1,1 @@
+£dchouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/ExtendedPostgresSQLDialect.java 2javaX

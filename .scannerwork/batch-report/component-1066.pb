@@ -1,0 +1,1 @@
+ªLchouette-core/src/main/java/fr/certu/chouette/core/CoreRuntimeException.java 2javaX3

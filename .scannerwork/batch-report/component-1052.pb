@@ -1,0 +1,1 @@
+œ/chouette-command/src/test/goodAFNORLineFile.xml 2xmlX‚

@@ -1,0 +1,1 @@
+£9chouette-attic/src/main/webapp/js/scriptaculous/slider.js 2jsX“

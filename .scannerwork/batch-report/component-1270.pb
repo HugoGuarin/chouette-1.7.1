@@ -1,0 +1,1 @@
+ö	=chouette-exchange-csv/src/main/resources/CsvImportContext.xml 2xmlX

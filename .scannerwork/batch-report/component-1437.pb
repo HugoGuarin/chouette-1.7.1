@@ -1,0 +1,1 @@
+dchouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/ChouetteSessionFactoryBean.java 2javaX÷

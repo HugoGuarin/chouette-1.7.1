@@ -1,0 +1,1 @@
+Œ[chouette-attic/src/main/java/fr/certu/chouette/service/fichier/formatinterne/IChargeur.java 2javaX

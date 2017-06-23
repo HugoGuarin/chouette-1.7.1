@@ -1,0 +1,1 @@
+ Nchouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/exception :žŸ¢

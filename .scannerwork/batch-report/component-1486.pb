@@ -1,0 +1,1 @@
+Î)chouette-hibernate-dao/src/main/resources :ÌÍ

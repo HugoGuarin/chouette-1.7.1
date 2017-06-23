@@ -1,0 +1,1 @@
+¯bchouette-attic/src/main/java/fr/certu/chouette/service/amivif/base/StopAreaExtensionConverter.java 2javaX

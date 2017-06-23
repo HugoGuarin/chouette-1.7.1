@@ -1,0 +1,1 @@
+ÜFchouette-attic/src/main/java/fr/certu/chouette/service/validation/util :6ÑÖàáäâãåçéêèëíìîïñóòôöõúùûü

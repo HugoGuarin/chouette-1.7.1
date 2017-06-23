@@ -1,0 +1,1 @@
+ù[chouette-neptune/src/main/resources/fr/certu/chouette/model/neptune/StopArea-validation.xml 2xmlX\

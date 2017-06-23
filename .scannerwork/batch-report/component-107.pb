@@ -1,0 +1,1 @@
+kgchouette-attic/src/main/java/fr/certu/chouette/echange/comparator/amivif/AmivifStopPointComparator.java 2javaXT

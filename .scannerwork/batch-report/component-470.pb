@@ -1,0 +1,1 @@
+Ögchouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/util/RegistrationProducer.java 2javaX[

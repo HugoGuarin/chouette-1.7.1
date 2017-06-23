@@ -1,0 +1,1 @@
+¾7chouette-hibernate-dao/src/main/mapping/Company.hbm.xml 2xmlXR

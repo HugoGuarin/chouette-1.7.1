@@ -1,0 +1,1 @@
+¯	Tchouette-core/src/test/java/fr/certu/chouette/manager/AbstractNoDaoManagerTests.java 2javaXF

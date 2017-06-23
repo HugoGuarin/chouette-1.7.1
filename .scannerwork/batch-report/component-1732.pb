@@ -1,0 +1,1 @@
+Äschouette-neptune/src/main/resources/fr/certu/chouette/struts/stoppointOnRoute/StoppointOnRouteAction-validation.xml 2xmlX

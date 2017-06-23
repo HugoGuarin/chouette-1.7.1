@@ -1,0 +1,1 @@
+Ì[chouette-attic/src/main/java/fr/certu/chouette/service/database/ICorrespondanceManager.java 2javaX

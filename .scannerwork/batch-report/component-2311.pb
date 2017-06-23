@@ -1,0 +1,1 @@
+‡^chouette-webapp/src/main/java/fr/certu/chouette/struts/converter/LongLatTypeTypeConverter.java 2javaX%

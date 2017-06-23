@@ -1,0 +1,1 @@
+á	=chouette-core/src/main/java/fr/certu/chouette/plugin/exchange :Ö	Ñ	Ü	à	â	ä	ã	å	ç	

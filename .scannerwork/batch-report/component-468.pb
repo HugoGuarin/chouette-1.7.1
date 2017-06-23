@@ -1,0 +1,1 @@
+Ôichouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/util/ProjectedPointProducer.java 2javaX/

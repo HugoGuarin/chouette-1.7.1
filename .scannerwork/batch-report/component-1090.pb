@@ -1,0 +1,1 @@
+ÂJchouette-core/src/main/java/fr/certu/chouette/manager/TimeSlotManager.java 2javaX!

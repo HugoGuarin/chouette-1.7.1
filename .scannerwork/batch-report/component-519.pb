@@ -1,0 +1,1 @@
+‡`chouette-attic/src/main/java/fr/certu/chouette/service/validation/util/ChouetteAreaProducer.java 2javaXS

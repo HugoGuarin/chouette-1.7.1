@@ -1,0 +1,1 @@
+Š	Pchouette-core/src/main/java/fr/certu/chouette/plugin/exchange/IExportPlugin.java 2javaX

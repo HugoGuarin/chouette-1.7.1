@@ -1,0 +1,1 @@
+»Zchouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/Registration.java 2javaX¯

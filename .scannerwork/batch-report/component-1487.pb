@@ -1,0 +1,1 @@
+Ïbchouette-hibernate-dao/src/test/java/fr/certu/chouette/dao/hibernate/AbstractDaoTemplateTests.java 2javaX’

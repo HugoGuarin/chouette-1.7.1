@@ -1,0 +1,1 @@
+Å=chouette-attic/src/main/java/fr/certu/chouette/service/commun :ÄÆÇ

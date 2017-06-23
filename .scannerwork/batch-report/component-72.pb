@@ -1,0 +1,1 @@
+H\chouette-attic/src/main/java/fr/certu/chouette/dao/hibernate/customtype/POITypeUserType.java 2javaX„

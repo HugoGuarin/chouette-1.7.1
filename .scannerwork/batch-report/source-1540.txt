@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:aop="http://www.springframework.org/schema/aop"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="
+   http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+   http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-2.5.xsd
+   http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-2.5.xsd"
+	default-init-method="init">
+
+	<bean id="networkJdbcDao" class="fr.certu.chouette.jdbc.dao.PTNetworkJdbcDao" parent="abstractJdbcDao">
+		<property name="sqlSelectAll">
+			<value>SELECT * FROM ${database.schema}.PTNETWORK</value>
+		</property>
+		<property name="sqlPurge">
+			<value>
+				DELETE FROM ${database.schema}.PTNETWORK WHERE id NOT IN (SELECT distinct ptnetworkid FROM ${database.schema}.line)
+			</value>
+		</property>
+		<property name="sqlInsert">
+			<value>
+				INSERT INTO ${database.schema}.PTNETWORK
+				(
+				objectid,
+				objectversion,
+				creationtime,
+				creatorid,
+				versiondate,
+				description,
+				name,
+				registrationnumber,
+				sourcename,
+				sourceidentifier,
+				COMMENT)
+				VALUES(?, ?,
+				?, ?, ?, ?, ?, ?, ?, ?, ?)
+			 </value>
+		</property>
+		<property name="sqlSelectByObjectId">
+			<value>SELECT * FROM ${database.schema}.PTNETWORK WHERE objectid = ?
+			</value>
+		</property>
+		<property name="sqlSelectByObjectIdWithInClause">
+			<value>
+				SELECT id,objectid FROM ${database.schema}.PTNETWORK WHERE
+				objectid IN (_OBJECTIDS_)
+			</value>
+		</property>
+		<property name="sqlUpdate">
+			<value>
+				UPDATE ${database.schema}.PTNETWORK
+				SET
+				objectid = ?,
+				objectversion = ?,
+				creationtime = ?,
+				creatorid = ?,
+				versiondate = ?,
+				description = ?,
+				name = ?,
+				registrationnumber = ?,
+				sourcename = ?,
+				sourceidentifier = ?,
+				COMMENT = ?
+				WHERE objectid = ?
+		</value>
+		</property>
+	</bean>
+</beans>	

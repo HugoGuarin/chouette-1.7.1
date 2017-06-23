@@ -1,0 +1,1 @@
+åkchouette-core/src/main/java/fr/certu/chouette/model/neptune/type/facility/FareClassFacilityEnumeration.java 2javaX‚

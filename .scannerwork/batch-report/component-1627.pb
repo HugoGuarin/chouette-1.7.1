@@ -1,0 +1,1 @@
+ÛSchouette-neptune/src/main/java/fr/certu/chouette/struts/json/data/JSONStopArea.java 2javaX*

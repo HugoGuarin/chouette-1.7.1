@@ -1,0 +1,1 @@
+Êfchouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/util/GroupOfLineProducer.java 2javaX,

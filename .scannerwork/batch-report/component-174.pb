@@ -1,0 +1,1 @@
+®_chouette-attic/src/main/java/fr/certu/chouette/service/amivif/base/SourceTypeTypeConverter.java 2javaX…

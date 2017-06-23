@@ -1,0 +1,1 @@
+ÚQchouette-neptune/src/main/resources/fr/certu/chouette/struts/vehicleJourneyAtStop :Ù

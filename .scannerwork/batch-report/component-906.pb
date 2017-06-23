@@ -1,0 +1,1 @@
+Š*chouette-attic/src/mapping/Mission.hbm.xml 2xmlX$

@@ -1,0 +1,1 @@
+ƒkchouette-neptune/src/main/java/fr/certu/chouette/struts/vehicleJourneyAtStop/VehicleJourneyAtStopModel.java 2javaX'

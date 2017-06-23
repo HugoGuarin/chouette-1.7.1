@@ -1,0 +1,1 @@
+Ê9chouette-hibernate-dao/src/main/mapping/TimeTable.hbm.xml 2xmlXn

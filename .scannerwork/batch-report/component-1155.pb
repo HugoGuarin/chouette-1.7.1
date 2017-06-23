@@ -1,0 +1,1 @@
+ƒ	8chouette-core/src/main/java/fr/certu/chouette/model/user :€	

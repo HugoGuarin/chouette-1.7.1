@@ -1,0 +1,1 @@
+«Ychouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/AccessPoint.java 2javaX_

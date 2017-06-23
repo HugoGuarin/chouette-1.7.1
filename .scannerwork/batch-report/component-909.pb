@@ -1,0 +1,1 @@
+ç7chouette-attic/src/mapping/PositionGeographique.hbm.xml 2xmlX4

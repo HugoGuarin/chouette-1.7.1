@@ -1,0 +1,1 @@
+Ö&chouette-validation/src/test/resources :ÔÕÙÜ

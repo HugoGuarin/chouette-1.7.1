@@ -1,0 +1,1 @@
+çachouette-attic/src/main/java/fr/certu/chouette/service/database/IPositionGeographiqueManager.java 2javaX`

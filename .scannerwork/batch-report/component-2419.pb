@@ -1,0 +1,1 @@
+ólchouette-webapp/src/main/resources/fr/certu/chouette/struts/massiveExport/MassiveExportAction-validation.xml 2xmlX

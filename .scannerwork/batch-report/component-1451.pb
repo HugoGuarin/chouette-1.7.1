@@ -1,0 +1,1 @@
+«mchouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/usertype/ConnectionLinkTypeUserType.java 2javaX…

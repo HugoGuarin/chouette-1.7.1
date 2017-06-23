@@ -1,0 +1,1 @@
+Á;chouette-hibernate-dao/src/main/mapping/GroupOfLine.hbm.xml 2xmlX?

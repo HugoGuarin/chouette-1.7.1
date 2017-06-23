@@ -1,0 +1,1 @@
+>Nchouette-attic/src/main/java/fr/certu/chouette/critere/VectorOperatorEnum.java 2javaX

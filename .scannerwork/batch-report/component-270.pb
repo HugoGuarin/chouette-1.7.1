@@ -1,0 +1,1 @@
+Lchouette-attic/src/main/java/fr/certu/chouette/service/fichier/formatinterne :Œ‘’©«

@@ -1,0 +1,1 @@
+mcchouette-attic/src/main/java/fr/certu/chouette/echange/comparator/amivif/IAmivifDataComparator.java 2javaX

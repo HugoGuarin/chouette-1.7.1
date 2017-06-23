@@ -1,0 +1,1 @@
+Äkchouette-webapp/src/main/java/fr/certu/chouette/struts/vehicleJourneyAtStop/VehicleJourneyAtStopAction.java 2javaX¡

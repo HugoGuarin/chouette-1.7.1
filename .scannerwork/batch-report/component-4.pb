@@ -1,0 +1,1 @@
+*chouette-attic/src/main/castor/altibus.xsd 2xmlX¥

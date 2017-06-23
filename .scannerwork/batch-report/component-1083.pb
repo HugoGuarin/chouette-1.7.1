@@ -1,0 +1,1 @@
+»Pchouette-core/src/main/java/fr/certu/chouette/manager/JourneyPatternManager.java 2javaX

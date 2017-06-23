@@ -1,0 +1,1 @@
+äWchouette-attic/src/main/java/fr/certu/chouette/service/validation/ChouetteAreaType.java 2javaX

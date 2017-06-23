@@ -1,0 +1,1 @@
+Ê	cchouette-exchange-csv/src/main/java/fr/certu/chouette/exchange/csv/exception/ExchangeException.java 2javaX.

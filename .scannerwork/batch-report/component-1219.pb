@@ -1,0 +1,1 @@
+Ã	+chouette-core/src/test/resources/testng.xml 2xmlX

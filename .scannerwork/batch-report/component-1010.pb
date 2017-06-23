@@ -1,0 +1,1 @@
+ò3chouette-castor-neptune/src/main/castor/binding.xml 2xmlX

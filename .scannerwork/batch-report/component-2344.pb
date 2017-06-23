@@ -1,0 +1,1 @@
+¨_chouette-webapp/src/main/java/fr/certu/chouette/struts/outil/displaytag/I18nStruts2Adapter.java 2javaXj

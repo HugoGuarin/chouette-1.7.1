@@ -1,0 +1,1 @@
+«ochouette-neptune/src/main/resources/fr/certu/chouette/struts/journeyPattern/JourneyPatternAction-validation.xml 2xmlX

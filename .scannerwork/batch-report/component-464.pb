@@ -1,0 +1,1 @@
+Ðmchouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/util/LocalTridentObjectProducer.java 2javaXA

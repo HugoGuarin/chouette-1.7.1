@@ -1,0 +1,1 @@
+È=chouette-attic/src/main/webapp/js/map/mapType/mapStopPlace.js 2jsX2

@@ -1,0 +1,1 @@
+¬gchouette-attic/src/main/java/fr/certu/chouette/service/fichier/formatinterne/modele/EtatDifference.java 2javaXÙ

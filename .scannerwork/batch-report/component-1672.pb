@@ -1,0 +1,1 @@
+ˆ.chouette-neptune/src/main/resources/assemblies :‡

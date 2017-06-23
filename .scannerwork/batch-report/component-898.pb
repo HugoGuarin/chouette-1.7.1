@@ -1,0 +1,1 @@
+‚2chouette-attic/src/mapping/ArretItineraire.hbm.xml 2xmlX&

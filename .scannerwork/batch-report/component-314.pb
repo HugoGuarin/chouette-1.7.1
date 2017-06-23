@@ -1,0 +1,1 @@
+ºWchouette-attic/src/main/java/fr/certu/chouette/service/geographie/impl/Coordonnees.java 2javaX´

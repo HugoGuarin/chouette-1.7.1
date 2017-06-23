@@ -1,0 +1,1 @@
+çgchouette-attic/src/main/java/fr/certu/chouette/service/fichier/formatinterne/IAnalyseurEtatInitial.java 2javaX

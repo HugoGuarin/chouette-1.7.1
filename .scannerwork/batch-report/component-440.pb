@@ -1,0 +1,1 @@
+¸cchouette-attic/src/main/java/fr/certu/chouette/service/validation/amivif/LocationTridentObject.java 2javaX"

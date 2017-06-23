@@ -1,0 +1,1 @@
+§Wchouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/PrimaryKeyDef.java 2javaX'

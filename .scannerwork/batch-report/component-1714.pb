@@ -1,0 +1,1 @@
+²[chouette-neptune/src/main/resources/fr/certu/chouette/struts/line/LineAction-validation.xml 2xmlX

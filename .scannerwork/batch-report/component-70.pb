@@ -1,0 +1,1 @@
+Fechouette-attic/src/main/java/fr/certu/chouette/dao/hibernate/customtype/LocationTypeTypeUserType.java 2javaX„

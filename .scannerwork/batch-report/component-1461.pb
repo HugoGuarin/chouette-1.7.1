@@ -1,0 +1,1 @@
+µlchouette-hibernate-dao/src/main/java/fr/certu/chouette/dao/hibernate/usertype/TransportModeNameUserType.java 2javaX…

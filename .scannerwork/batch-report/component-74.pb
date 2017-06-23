@@ -1,0 +1,1 @@
+Jfchouette-attic/src/main/java/fr/certu/chouette/dao/hibernate/customtype/ReferencingMethodUserType.java 2javaX„

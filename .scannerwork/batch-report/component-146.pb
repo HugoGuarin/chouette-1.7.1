@@ -1,0 +1,1 @@
+’@chouette-attic/src/main/java/fr/certu/chouette/modele/Ligne.java 2javaX™

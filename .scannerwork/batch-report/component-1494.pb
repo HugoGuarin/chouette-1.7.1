@@ -1,0 +1,1 @@
+Öbchouette-hibernate-dao/src/test/java/fr/certu/chouette/dao/hibernate/StopAreaDaoTemplateTests.java 2javaXD

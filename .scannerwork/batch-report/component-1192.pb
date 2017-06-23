@@ -1,0 +1,1 @@
+¨	Rchouette-core/src/test/java/fr/certu/chouette/manager/AbstractDaoManagerTests.java 2javaXg

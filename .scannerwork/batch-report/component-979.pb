@@ -1,0 +1,1 @@
+Ó,chouette-attic/src/test/resources/validation :ÒÔÕÖ×ØÙÛÚ

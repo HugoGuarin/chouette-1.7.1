@@ -1,0 +1,1 @@
+¹Mchouette-core/src/main/java/fr/certu/chouette/manager/GroupOfLineManager.java 2javaX

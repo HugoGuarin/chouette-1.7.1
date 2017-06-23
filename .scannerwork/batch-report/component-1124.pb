@@ -1,0 +1,1 @@
+älchouette-core/src/main/java/fr/certu/chouette/model/neptune/type/facility/AssistanceFacilityEnumeration.java 2javaXm

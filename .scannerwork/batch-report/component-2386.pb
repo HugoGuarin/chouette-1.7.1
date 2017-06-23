@@ -1,0 +1,1 @@
+ÒQchouette-webapp/src/main/resources/fr/certu/chouette/modele/Course-validation.xml 2xmlX0

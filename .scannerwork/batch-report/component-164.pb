@@ -1,0 +1,1 @@
+¤Bchouette-attic/src/main/java/fr/certu/chouette/service/amivif/base :(¢¥£¦§¨©ª«¬­®¯°±²³´¶·

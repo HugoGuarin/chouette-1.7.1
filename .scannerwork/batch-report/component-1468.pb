@@ -1,0 +1,1 @@
+¼'chouette-hibernate-dao/src/main/mapping : »½¾¿ÀÁÂÃÄÅÆÇÈÉÊË

@@ -1,0 +1,1 @@
+ÆKchouette-webapp/src/main/java/fr/certu/chouette/struts/vehicleJourneyAtStop :ÄÅ

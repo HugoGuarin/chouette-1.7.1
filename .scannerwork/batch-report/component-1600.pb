@@ -1,0 +1,1 @@
+Àmchouette-neptune/src/main/java/fr/certu/chouette/struts/converter/LocationReferencingMethodEnumConverter.java 2javaX'

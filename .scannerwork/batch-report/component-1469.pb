@@ -1,0 +1,1 @@
+½:chouette-hibernate-dao/src/main/mapping/AccessLink.hbm.xml 2xmlXz
